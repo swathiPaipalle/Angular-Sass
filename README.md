@@ -1,14 +1,11 @@
-Pre requisites
-NodeJs
-npm
+App using AngularJS and Sass
+
+<b>To Build</b>
+<pre>
+git clone https://github.com/swathiPaipalle/Angular-Sass.git
+cd Angular-Sass
+npm install
+bower install
 grunt
-
-
-
->npm install
-
->bower install
-
->grunt
-
-Project will be running on http://localhost:9000 
+</pre>
+Now browse to the app at http://localhost:9000 
