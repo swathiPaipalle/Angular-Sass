@@ -9,3 +9,7 @@ bower install
 grunt
 </pre>
 Now browse to the app at http://localhost:9000 
+<br>
+<br>
+http://swathipaipalle.github.io/Angular-Sass/app/index.html
+
